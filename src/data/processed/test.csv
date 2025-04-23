@@ -1,0 +1,51 @@
+text,label
+what is my order status?,ORDER_STATUS
+is there any offline stores,DISTRIBUTORS
+need to know the warranty details,WARRANTY
+cost of mattress,MATTRESS_COST
+is it possible to cod,COD
+how about paisa finance,EMI
+mattress size,WHAT_SIZE_TO_ORDER
+you guys provide emi option?,EMI
+when will the order be delivered to me?,ORDER_STATUS
+how do i know what size to order?,WHAT_SIZE_TO_ORDER
+not happy with the product please help me to return,RETURN_EXCHANGE
+what are the product variants,PRODUCT_VARIANTS
+how to get in emi,EMI
+looking to exchange,RETURN_EXCHANGE
+arrange a call back,LEAD_GEN
+need nearby store,DISTRIBUTORS
+what does the mattress cost,MATTRESS_COST
+i want to order,LEAD_GEN
+delivery is delayed,DELAY_IN_DELIVERY
+cancel my order,CANCEL_ORDER
+what are the mattress features,PRODUCT_VARIANTS
+compare the 2 mattresses,COMPARISON
+i want to check offers,100_NIGHT_TRIAL_OFFER
+tell me about sof ergo mattress,ERGO_FEATURES
+what about emi options,EMI
+have a back problem,ORTHO_FEATURES
+tell me about the latest offers,OFFERS
+is there orthopedic mattress available,ORTHO_FEATURES
+it's too late to get delivered,DELAY_IN_DELIVERY
+tell me about sof mattress features,PRODUCT_VARIANTS
+pillows,PILLOWS
+do you deliver to,CHECK_PINCODE
+how to buy?,LEAD_GEN
+what are the available offers,OFFERS
+tell me about company,ABOUT_SOF_MATTRESS
+ortho,ORTHO_FEATURES
+current state of my order,ORDER_STATUS
+where is the shop,DISTRIBUTORS
+i want to change the size of the mattress.,SIZE_CUSTOMIZATION
+what are your products,PRODUCT_VARIANTS
+nearest shop,DISTRIBUTORS
+is cod option available,COD
+price of mattress,MATTRESS_COST
+i want to buy pillows,PILLOWS
+what are the available mattress sizes,WHAT_SIZE_TO_ORDER
+how much cost,MATTRESS_COST
+cancellation status,CANCEL_ORDER
+100 nights trial version,100_NIGHT_TRIAL_OFFER
+100 night trial,100_NIGHT_TRIAL_OFFER
+is it available in shops,DISTRIBUTORS

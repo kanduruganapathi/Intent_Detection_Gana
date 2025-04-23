@@ -1,0 +1,57 @@
+                      precision    recall  f1-score   support
+
+100_NIGHT_TRIAL_OFFER       0.00      0.00      0.00         3
+   ABOUT_SOF_MATTRESS       0.00      0.00      0.00         1
+         CANCEL_ORDER       0.00      0.00      0.00         2
+        CHECK_PINCODE       0.00      0.00      0.00         1
+                  COD       0.00      0.00      0.00         2
+           COMPARISON       0.00      0.00      0.00         1
+    DELAY_IN_DELIVERY       0.00      0.00      0.00         2
+         DISTRIBUTORS       0.10      1.00      0.18         5
+                  EMI       0.00      0.00      0.00         4
+        ERGO_FEATURES       0.00      0.00      0.00         1
+             LEAD_GEN       0.00      0.00      0.00         3
+        MATTRESS_COST       0.00      0.00      0.00         4
+               OFFERS       0.00      0.00      0.00         2
+         ORDER_STATUS       0.00      0.00      0.00         3
+       ORTHO_FEATURES       0.00      0.00      0.00         3
+              PILLOWS       0.00      0.00      0.00         2
+     PRODUCT_VARIANTS       0.00      0.00      0.00         4
+      RETURN_EXCHANGE       0.00      0.00      0.00         2
+   SIZE_CUSTOMIZATION       0.00      0.00      0.00         1
+             WARRANTY       0.00      0.00      0.00         1
+   WHAT_SIZE_TO_ORDER       0.00      0.00      0.00         3
+
+             accuracy                           0.10        50
+            macro avg       0.00      0.05      0.01        50
+         weighted avg       0.01      0.10      0.02        50
+
+
+
+precision    recall  f1-score   support
+
+100_NIGHT_TRIAL_OFFER       0.00      0.00      0.00         3
+   ABOUT_SOF_MATTRESS       0.05      1.00      0.09         1
+         CANCEL_ORDER       0.00      0.00      0.00         2
+        CHECK_PINCODE       0.00      0.00      0.00         1
+                  COD       0.00      0.00      0.00         2
+           COMPARISON       0.00      0.00      0.00         1
+    DELAY_IN_DELIVERY       1.00      1.00      1.00         2
+         DISTRIBUTORS       0.22      0.40      0.29         5
+                  EMI       0.00      0.00      0.00         4
+        ERGO_FEATURES       0.00      0.00      0.00         1
+             LEAD_GEN       0.00      0.00      0.00         3
+        MATTRESS_COST       0.00      0.00      0.00         4
+               OFFERS       0.00      0.00      0.00         2
+         ORDER_STATUS       0.00      0.00      0.00         3
+       ORTHO_FEATURES       0.00      0.00      0.00         3
+              PILLOWS       0.00      0.00      0.00         2
+     PRODUCT_VARIANTS       0.00      0.00      0.00         4
+      RETURN_EXCHANGE       0.33      0.50      0.40         2
+   SIZE_CUSTOMIZATION       0.00      0.00      0.00         1
+             WARRANTY       0.00      0.00      0.00         1
+   WHAT_SIZE_TO_ORDER       0.00      0.00      0.00         3
+
+             accuracy                           0.12        50
+            macro avg       0.08      0.14      0.08        50
+         weighted avg       0.08      0.12      0.09        50

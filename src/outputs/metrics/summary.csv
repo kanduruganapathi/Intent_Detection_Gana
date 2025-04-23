@@ -1,0 +1,4 @@
+model,test_macro_f1,test_accuracy
+logreg,0.7480725623582766,0.78
+svm,0.7413832199546485,0.78
+distilbert,0.0844128955930198,0.12
